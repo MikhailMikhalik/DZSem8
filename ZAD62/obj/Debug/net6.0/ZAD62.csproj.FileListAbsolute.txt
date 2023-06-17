@@ -1,0 +1,15 @@
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\bin\Debug\net6.0\ZAD62.exe
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\bin\Debug\net6.0\ZAD62.deps.json
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\bin\Debug\net6.0\ZAD62.runtimeconfig.json
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\bin\Debug\net6.0\ZAD62.dll
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\bin\Debug\net6.0\ZAD62.pdb
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.csproj.AssemblyReference.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.AssemblyInfoInputs.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.AssemblyInfo.cs
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.dll
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\refint\ZAD62.dll
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.pdb
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ZAD62.genruntimeconfig.cache
+C:\Users\Михаил\OneDrive\Рабочий стол\DZSem8\ZAD62\obj\Debug\net6.0\ref\ZAD62.dll
